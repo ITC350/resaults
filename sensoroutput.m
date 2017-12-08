@@ -36,4 +36,4 @@ ylabel('Hastighed [interrupts/20ms]');
 grid;
 title('Hastighedgraf');
 %legend('Hastighed');
-set(gca,'Xlim',[0 5500]);
+set(gca,'Xlim',[0 1800]);
